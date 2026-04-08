@@ -1,0 +1,8 @@
+*.log
+*.tmp
+*.swp
+*.bak
+.env
+.vscode/
+.idea/
+__pycache__/
